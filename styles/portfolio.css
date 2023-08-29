@@ -41,6 +41,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     margin: 0 200px;
+
 }
 
 .web-title {
@@ -77,6 +78,10 @@ nav a {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-image: url(../images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: contain;
 }
 
 .banner-content {
